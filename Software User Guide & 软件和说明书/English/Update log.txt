@@ -1,0 +1,167 @@
+V3.10.6.1 (2017.4.11)
+1¡¢Repairing the horizontal 0 position arrow dragging problem
+2¡¢Optimized frequency meter display
+
+V3.10.3.6 (2017.1.12)
+1¡¢Sweep support 205 Series
+2¡¢Sweep add input range and probe setting
+3¡¢Simplified Version add channel,trigger and horizontal menu
+
+V3.10.3.6 (2016.11.22)
+1¡¢in the first time, computer startup does not recognize the device bug
+
+V3.10.3.2 (2016.11.18)
+1¡¢fix if open DDS£¬then can`t open oscilloscope bug
+
+V3.10.2.1 (2016.11.15)
+1¡¢fix some sweep bug
+
+V3.10.1.2 (2016.11.10)
+1¡¢Add Pass/Fail Function
+2¡¢FFT add "Peak Hold","Average","Magnitude" display mode
+3¡¢Bottom upgrade to improve stability
+4¡¢Sweep 2.0, sweep faster, increase phase frequency display
+5¡¢Add oscilloscope measurement display area
+6¡¢Reduce grid line
+
+V3.9.6.6 (2016.9.27)
+1¡¢Update FFT
+2¡¢fix default directory setting bug
+
+V3.9.5.2 (2016.7.10)
+1¡¢Add Duty(+) Duty(-) Pulse Width(+) Pulse Width(-) Top Base Amplitude Measure
+2¡¢Fix load 12 bit file software crash bug
+3¡¢add Cursor Measure auto release
+4¡¢Fix some system software crash bug
+
+V3.9.4.0 (2016.6.16)
+1¡¢Fix hidden "Deskbar", start the display problem
+2¡¢Increase high resolution screens supported of win10 
+3¡¢Spectrum Analyzer with a separate area displays the measurement result
+4¡¢Modify the sweeper bug
+
+V3.9.3.0 (2016.5.10)
+1¡¢Fixed Pre-Trigger Percent setting bug of Simplified Version
+2¡¢Fixed in Probe X10, Auto failed bug
+3¡¢Fixed some bug
+
+V3.9.2.0 (2016.3.10)
+1¡¢Add Reference Wave Function
+2¡¢Fixed some bug
+
+V3.9.1.0 (2016.2.23)
+1¡¢Fixed sampling rate, need set sampling rate again bug
+2¡¢FFT Parameter memory function
+3¡¢Repair FFT display bug
+
+V3.9.0.0 (2016.2.18)
+1¡¢New Edit Ctrl
+2¡¢Fix file Manager bug
+3¡¢New the frame capture toolbar, support playback function
+4¡¢FFT display adjustment for RMS reference
+
+V3.8.97.0 (2015.12.10)
+1¡¢Fix DDS can1t set 1-10Hz bug
+2¡¢Fix "Normal" Trigger Mode can display trigger levle label
+
+V3.8.96.5 (2015.12.8)
+1¡¢Fix Save File bug
+2¡¢ISDS2062 DDS Frequence Edit Support 0.1Hz
+3¡¢Fix 205 Series software trigger instability problem
+4¡¢FFT1 and FFT2 Measurement alone control
+5¡¢Add THD % Display
+
+V3.8.95.2 (2015.11.24)
+1¡¢Fix Sweep outrange bug
+
+V3.8.94.0 (2015.11.20)
+1¡¢the spectrum of Simplified Version supports the logarithmic coordinate system
+2¡¢Optimization the zoom of Professional Version logarithmic coordinate system
+
+V3.8.93.2 (2015.10.19)
+1¡¢Support ISDS205X
+
+V3.8.91.0 (2015.9.13)
+1¡¢Fix for the English version of the DDS pop-up error dialog
+
+V3.8.90.0 (2015.8.13)
+1¡¢Solve the problem of saving CSV format
+2¡¢Use the "no trigger", Ben dam break problem
+3¡¢Add Cycle mean, Cycle rms, Cycle sdev
+4¡¢Professional version of the spectrum analysis to increase the FFT2, support for 2 FFT results contrast
+
+V3.8.80.7 (2015.7.2)
+1¡¢Simplified Version upgraded spectrum features, support for the 2 set of waveforms show, support phase frequency
+2¡¢Update the bottom display of Simplified Version, more intuitive
+3¡¢adjust the vertical displacement numerical of Simplified Version
+4¡¢Upgrade frequency measurement algorithm, more stable
+5¡¢Increase hidden control panel function
+6¡¢Trigger sensitivity adjustment (0.1div ~ 1.0div)
+7¡¢Trigger position setting
+8¡¢ISDS2062 New equipment support
+9¡¢"Key C" fast switching Cur1 selected state;"Key Shift+C" fast switching Cur2 selected state;press Shift to move the 2 cursor at the same time.
+
+V3.8.70.7 (2015.3.16)
+1¡¢Using the new certificate, to solve the old certificate cannot be installed
+2¡¢Add color setting function
+3¡¢Add the cursor measurement toolbar
+
+V3.8.65.9 (2015.2.5)
+1¡¢Repair can`t enter the Scroll Mode
+2¡¢Repair of low pulse width waveform, frequency problem cannot be measured
+3¡¢Installation package driver check function
+
+V3.8.60.8 (2014.12.31)
+1¡¢Simplified Version Upgrade the vertical offset display
+2¡¢Repair probe bug of Professional Version
+3¡¢Increase in space, above and below the keyboard shortcut support
+4¡¢Revise the new algorithm for frequency measurement bug
+
+V3.8.50.8 (2014.12.9)
+1¡¢Drag the top thumbnail
+2¡¢Upgrading software to filter 2.3, open the save function parameters
+3¡¢Fixe Lissajous display
+4¡¢Fixe voltage meter display error problem
+5¡¢Modify the trigger level of suspended animation
+6¡¢The simplified version plus offset, amplitude adjustment
+7¡¢Repair of simplified version of DDS interface in high resolution computer display is not complete
+
+V3.8.40.8 (2014.11.5)
+1¡¢Add the thumbnail
+2¡¢Modify the software crash bug
+3¡¢Math add X10£¬X100
+4¡¢Add sdev
+5¡¢Upgrade the frequency measurement algorithm
+6¡¢Recorder add line color settings
+7¡¢Recorder modify X10¡¢X100 bug
+
+V3.8.30.8 (2014.10.15)
+1¡¢Modify the FFT amplitude display is not correct
+
+V3.8.20.8 (2014.9.15)
+1,Sweep increase 2 and 5 multiple options
+2,Sweep increase overrange detection
+3,New cursor measurement interface
+4,X-Y mode, scale adjustment alone
+5,Recorder add AC/DC coupling
+6,Recorder add X10 X100 X1000
+7,Repair oscilloscope trigger adjustment crash bug
+8,Simplified Version combine DDS and Osc, easy to use
+9,Add the Roll Mode
+10,Repair the problem of DC change FFT amplitude
+
+V3.8.13.0 (2014.7.10)
+1,Interpolation using multiple detect
+2,Add printing mode to Simplified Version
+
+V3.8.12.0 (2014.5.13)
+1,Fixe Virtual Machine detect equipment bug
+2,Fixe channel labeling problem of the Simplified Version
+
+V3.8.11.0 (2014.3.18)
+1,Save grid to image
+2,Fixe FFT measurement log bug
+3,Fixe Full Screen bug
+
+V3.8.10.0 (2014.3.10)
+1,Support Win8
